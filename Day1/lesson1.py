@@ -1,5 +1,5 @@
 from turtle import *
-
+bgcolor("black")
 speed(30)
 width(7)
 #rectangle
@@ -65,13 +65,19 @@ left(90)
 forward(50)
 
 color("yellow")
-width(10)
+width(7)
 penup()
 goto(20,180)
+pendown()
 right(90)
 forward(50)
 right(90)
 forward(50)
+right(90)
+forward(50)
+right(90)
+forward(50)
+
 
 
 

@@ -16,4 +16,3 @@ name = "talakvadze"
 print(name[-2:-5:-2])
 print(name.upper())
 print(name.replace(" ","*"))
-
